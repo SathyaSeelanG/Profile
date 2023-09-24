@@ -13,6 +13,7 @@ import {
 import { TypeAnimation } from 'react-type-animation';
 import ScrollAnimation from "react-animate-on-scroll";
 import FixSocialIcon from "../SocialIcon/FixSocialIcon";
+import logoImage from '../../assets/Images/SSlogo.jpg';
 
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
@@ -97,10 +98,11 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
-              <Image
+              {/* <Image
                 src="/man-svgrepo-com.svg"
                 alt="man-svgrepo"
-              />
+              /> */}
+              <img src={logoImage} alt="Header Logo"  style={{ borderRadius:"120px"}}/> 
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>

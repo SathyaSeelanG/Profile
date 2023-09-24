@@ -26,7 +26,7 @@ const SocialContainer = styled.div`
   }
 
   @media screen and (max-width: 1000px) {
-    margin-top: 2rem;
+    margin-top: 5rem;
     margin-left:8rem;
     position: relative;
     top: 0;

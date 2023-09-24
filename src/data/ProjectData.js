@@ -1,7 +1,13 @@
 // --------------------------------------- Project List
+// import logoImage from 'SSlogo.jpg';
+
 export const ProjectList = [
   {
-    img: "/MODERNGUI1.jpg",
+    img:  "https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/MODERNGUI1.jpg",
+
+    // "/jobDetect.png",
+    // {logoImage},
+
     title: "MODERN-GUI",
     description:
       "Project involves building a modern Graphical User Interface (GUI) using Python and advanced UI libraries",
@@ -10,7 +16,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/price.png",
+    img: "https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/Price.png",
     title: "Price Comparision App",
     description:
       "Price Comparison App is a web application that retrieves and displays price details from various online platforms",
@@ -19,7 +25,7 @@ export const ProjectList = [
     demo_url: "https://price-comparision-django-keim.onrender.com/",
   },
   {
-    img: "/Ecom.png",
+    img: "https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/Ecom.png",
     title: "Ecommerce website",
     description:
       "E-commerce Web Application is a powerful solution for businesses to establish and manage their online stores.",
@@ -28,7 +34,7 @@ export const ProjectList = [
     demo_url: "https://ecom-web-sathya.netlify.app/",
   },
   {
-    img: "/Wall.png",
+    img: "https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/Wall.png",
     title: "Wallmart Data Analysis",
     description:
       "Python project focuses on analyzing Walmart's data using four popular modules: NumPy, Pandas, Matplotlib, and Seaborn.",
