@@ -27,10 +27,11 @@ const SocialContainer = styled.div`
 
   @media screen and (max-width: 1000px) {
     margin-top: 2rem;
+    margin-left:8rem;
     position: relative;
     top: 0;
     left: 0;
-    ul {
+    ${'' /* ul {
       display: flex;
       justify-content: center;
       align-items: center;
@@ -48,7 +49,7 @@ const SocialContainer = styled.div`
     .item + .item {
       margin-top: 0;
       margin-left: 5rem;
-    }
+    } */}
   }
 `;
 function FixSocialIcon() {
