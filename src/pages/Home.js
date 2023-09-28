@@ -18,6 +18,8 @@ function Home() {
       {/* <Contributions /> */}
       {/* <Contact />       */}
       {/* <FixSocialIcon /> */}
+
+      
       <Footer />
       <ScrollToTop />
     </>
