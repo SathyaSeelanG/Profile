@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.c41c6a58.css",
+    "main.js": "/Profile/static/js/main.9a3b9297.js",
+    "static/media/blob-haikei.svg": "/Profile/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "index.html": "/Profile/index.html",
+    "main.c41c6a58.css.map": "/Profile/static/css/main.c41c6a58.css.map",
+    "main.9a3b9297.js.map": "/Profile/static/js/main.9a3b9297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c41c6a58.css",
+    "static/js/main.9a3b9297.js"
+  ]
+}
